@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Calculating the ROI of an AI Medical Scribe for Your Practice"
-date: 2026-01-21 10:00:00 -0500
+date: 2025-12-27
 categories: [business, roi]
 description: "A practical framework for understanding the financial return on investment when implementing AI-powered clinical documentation."
 ---

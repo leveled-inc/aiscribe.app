@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Documentation Burden: How AI Is Finally Addressing Physician Burnout"
-date: 2026-01-20 10:00:00 -0500
+date: 2025-12-10
 categories: [burnout, physician-wellness]
 description: "Clinical documentation has become a leading cause of physician burnout. Research shows AI-powered solutions are making a measurable difference."
 ---

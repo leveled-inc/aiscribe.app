@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HIPAA Compliance and AI Scribes: A Non-Negotiable"
-date: 2025-06-18 09:30:00 -0400
+date: 2025-06-05
 categories: [ai-documentation, technology, compliance, security]
 ---
 

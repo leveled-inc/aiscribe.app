@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Impact of AI Scribes on Patient Communication and Trust"
-date: 2026-01-15 09:00:00 -0500
+date: 2025-11-06
 categories: [physician-wellness, technology]
 ---
 

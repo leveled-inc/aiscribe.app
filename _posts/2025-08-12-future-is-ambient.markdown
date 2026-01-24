@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Future is Ambient: How AI Scribes Are Disappearing into the Exam Room"
-date: 2025-10-10 11:00:00 -0400
+date: 2025-08-12
 categories: [ai-documentation, technology, future-of-healthcare]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HIPAA Compliance and AI Medical Scribes: What Every Practice Must Know in 2026"
-date: 2026-01-22 10:00:00 -0500
+date: 2026-01-05
 categories: [compliance, security]
 description: "Understanding the critical privacy and security requirements for deploying AI-powered clinical documentation in your healthcare practice."
 ---

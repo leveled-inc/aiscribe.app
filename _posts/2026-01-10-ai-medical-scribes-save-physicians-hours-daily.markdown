@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How AI Medical Scribes Are Saving Physicians 2+ Hours Every Day"
-date: 2026-01-23 10:00:00 -0500
+date: 2026-01-10
 categories: [ai-documentation, productivity]
 description: "New research shows AI-powered ambient documentation is transforming clinical workflows, with physicians reclaiming hours previously lost to EHR documentation."
 ---

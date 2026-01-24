@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boosting Your Practice's Value: How AI Scribes Enhance Saleability in 2025"
-date: 2026-01-23 11:00:00 -0500
+date: 2026-01-14
 categories: [business, roi, technology]
 ---
 

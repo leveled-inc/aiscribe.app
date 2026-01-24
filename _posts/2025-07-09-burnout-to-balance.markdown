@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Burnout to Balance: How AI Scribes Are Restoring Physician Well-being"
-date: 2025-08-15 09:00:00 -0400
+date: 2025-07-09
 categories: [ai-documentation, physician-wellness]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How AI Scribes Are Revolutionizing Cardiology Documentation"
-date: 2025-04-20 14:00:00 -0400
+date: 2025-05-02
 categories: [ai-documentation, technology, specialty-guide, efficiency]
 ---
 

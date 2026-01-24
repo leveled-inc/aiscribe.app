@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Integrating AI Scribes: A Smart Investment in Your Medical Practice Startup (2025 Budget Considerations)"
-date: 2026-01-23 10:00:00 -0500
+date: 2026-01-18
 categories: [ai-documentation, business, roi]
 ---
 

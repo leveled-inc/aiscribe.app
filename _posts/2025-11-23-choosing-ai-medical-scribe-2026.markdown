@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Choose an AI Medical Scribe in 2026: A Practical Buyer's Guide"
-date: 2026-01-19 10:00:00 -0500
+date: 2025-11-23
 categories: [buying-guide, comparison]
 description: "With dozens of AI documentation solutions now available, here's what to evaluate when selecting the right tool for your practice."
 ---

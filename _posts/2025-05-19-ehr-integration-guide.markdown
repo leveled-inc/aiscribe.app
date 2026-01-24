@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seamless EHR Integration: What to Look for in an AI Scribe"
-date: 2025-05-22 10:00:00 -0400
+date: 2025-05-19
 categories: [ai-documentation, technology, buying-guide]
 ---
 

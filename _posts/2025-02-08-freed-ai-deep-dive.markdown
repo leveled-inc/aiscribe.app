@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Deep Dive into Freed AI: Is It the Right Scribe for Your Clinic?"
-date: 2025-01-26 10:00:00 -0500
+date: 2025-02-08
 categories: [ai-documentation, buying-guide, technology, reviews]
 ---
 

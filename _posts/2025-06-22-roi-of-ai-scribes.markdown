@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The ROI of AI Scribes: Calculating the True Value for Your Practice"
-date: 2025-07-21 11:30:00 -0400
+date: 2025-06-22
 categories: [ai-documentation, business, roi]
 ---
 

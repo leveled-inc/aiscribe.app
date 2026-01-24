@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Review of Suki: The AI Assistant for Medical Dictation"
-date: 2025-11-05 15:00:00 -0500
+date: 2025-08-29
 categories: [ai-documentation, technology, reviews]
 ---
 

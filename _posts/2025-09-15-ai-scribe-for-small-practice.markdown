@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Choose the Best AI Scribe for a Small Practice"
-date: 2025-12-01 10:00:00 -0500
+date: 2025-09-15
 categories: [ai-documentation, buying-guide, business]
 ---
 

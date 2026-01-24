@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beyond the Hype: A Realistic Look at the Limitations of AI Scribes"
-date: 2025-02-20 10:00:00 -0500
+date: 2025-03-11
 categories: [ai-documentation, technology, buying-guide]
 ---
 

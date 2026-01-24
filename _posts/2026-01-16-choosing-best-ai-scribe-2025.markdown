@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Choosing the Best AI Scribe for Your Practice in 2025: A Comprehensive Guide to AI-Powered Documentation"
-date: 2026-01-23 10:30:00 -0500
+date: 2026-01-16
 categories: [ai-documentation, buying-guide, technology]
 ---
 

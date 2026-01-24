@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Optimizing Physician Well-being: The 'Hot vs. Cold' Approach to Clinical Documentation with AI Scribes"
-date: 2026-01-23 09:30:00 -0500
+date: 2026-01-20
 categories: [ai-documentation, physician-wellness, efficiency]
 ---
 

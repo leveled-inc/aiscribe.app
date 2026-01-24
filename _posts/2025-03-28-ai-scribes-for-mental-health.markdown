@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ultimate Guide to AI Scribes for Mental Health Professionals"
-date: 2025-03-15 09:00:00 -0400
+date: 2025-03-28
 categories: [ai-documentation, physician-wellness, technology, specialty-guide]
 ---
 

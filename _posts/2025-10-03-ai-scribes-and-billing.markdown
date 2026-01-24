@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Scribes and Medical Billing: Improving Accuracy and Revenue"
-date: 2024-04-30 13:00:00 -0400
+date: 2025-10-03
 categories: [ai-documentation, business, roi]
 ---
 

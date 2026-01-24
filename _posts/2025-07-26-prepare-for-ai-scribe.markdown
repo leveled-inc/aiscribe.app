@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Ways to Prepare Your Practice for AI Scribe Implementation"
-date: 2025-09-12 10:30:00 -0400
+date: 2025-07-26
 categories: [ai-documentation, business, efficiency]
 ---
 

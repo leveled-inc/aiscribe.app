@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Role of AI Scribes in a Value-Based Care Model"
-date: 2024-05-15 09:00:00 -0400
+date: 2025-10-20
 categories: [ai-documentation, business, future-of-healthcare]
 ---
 

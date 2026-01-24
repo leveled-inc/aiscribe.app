@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nuance DAX vs. Abridge: A Comparison of Two Industry Giants"
-date: 2025-02-10 11:00:00 -0500
+date: 2025-02-24
 categories: [ai-documentation, buying-guide, technology, reviews]
 ---
 

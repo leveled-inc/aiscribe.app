@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Scribes: A Smart Investment for Clinics - Boosting Efficiency and Physician Well-being"
-date: 2026-01-23 09:00:00 -0500
+date: 2026-01-12
 categories: [ai-documentation, roi, physician-wellness]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Physician's Review: My First 30 Days with an AI Scribe"
-date: 2025-03-25 16:30:00 -0400
+date: 2025-04-15
 categories: [ai-documentation, physician-wellness, reviews]
 ---
 
