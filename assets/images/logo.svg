@@ -1,0 +1,41 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .stroke { stroke: #0F172A; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+      .fill { fill: #0F172A; }
+      .none { fill: none; }
+    </style>
+  </defs>
+
+  <!-- Clipboard body -->
+  <rect
+    x="44"
+    y="48"
+    width="152"
+    height="168"
+    rx="16"
+    class="none stroke"
+  />
+
+  <!-- Clipboard clip -->
+  <rect
+    x="84"
+    y="24"
+    width="72"
+    height="40"
+    rx="12"
+    class="none stroke"
+  />
+  <rect
+    x="96"
+    y="32"
+    width="48"
+    height="24"
+    rx="8"
+    class="fill"
+  />
+
+  <!-- Medical plus -->
+  <rect x="112" y="92" width="16" height="72" rx="4" class="fill"/>
+  <rect x="84" y="120" width="72" height="16" rx="4" class="fill"/>
+</svg>

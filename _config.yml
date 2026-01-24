@@ -1,0 +1,64 @@
+# Site settings
+title: AI Scribe Reviews
+email: hello@medicalscribe.app
+description: >-
+  The website reviews AI scribe technology for the medical field.
+baseurl: ""
+url: "https://medicalscribe.app"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO settings
+author:
+  name: AI Scribe Reviews
+  url: https://medicalscribe.app
+
+twitter:
+  card: summary_large_image
+
+social:
+  name: AI Scribe Reviews
+  links:
+    - https://medicalscribe.app
+
+logo: /assets/images/logo.svg
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "AI Scribe Reviews"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Navigation
+header_pages:
+  - about.markdown
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CLAUDE.md
+
+# Sass settings
+sass:
+  style: compressed

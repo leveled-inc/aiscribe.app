@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="wrapper">
+    {%- if site.posts.size > 0 -%}
+      <h2 class="post-list-heading">Latest Articles</h2>
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          {%- if post.description -%}
+            <p class="post-excerpt">{{ post.description }}</p>
+          {%- elsif post.excerpt -%}
+            <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+  </div>
+</div>
