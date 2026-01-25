@@ -132,4 +132,4 @@ The good news: competition is driving rapid improvement and more reasonable pric
 
 ---
 
-*Medical Scribe offers flexible trials so you can evaluate with real patients. [Start your evaluation](https://medicalscribe.app) today.*
+*Medical Scribe offers flexible trials so you can evaluate with real patients. [Start your evaluation](https://aiscribe.app) today.*

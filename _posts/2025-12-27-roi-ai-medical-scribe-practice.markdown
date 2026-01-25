@@ -104,4 +104,4 @@ When presenting AI scribe investment to practice leadership:
 
 ---
 
-*Ready to calculate your practice's specific ROI? [Contact Medical Scribe](https://medicalscribe.app) for a personalized analysis.*
+*Ready to calculate your practice's specific ROI? [Contact Medical Scribe](https://aiscribe.app) for a personalized analysis.*

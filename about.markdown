@@ -22,4 +22,4 @@ We believe physicians should spend their time caring for patients, not typing in
 
 Medical Scribe was designed in partnership with physicians across specialties. We understand the unique documentation needs of primary care, specialty medicine, and hospital settings.
 
-[Learn more at medicalscribe.app](https://medicalscribe.app)
+[Learn more at aiscribe.app](https://aiscribe.app)

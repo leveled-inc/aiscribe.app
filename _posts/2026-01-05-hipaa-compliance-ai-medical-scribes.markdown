@@ -81,4 +81,4 @@ AI medical scribes offer tremendous benefits for clinical efficiency and physici
 
 ---
 
-*Medical Scribe is built with HIPAA compliance at its core. [Learn about our security practices](https://medicalscribe.app) and how we protect your patients' data.*
+*Medical Scribe is built with HIPAA compliance at its core. [Learn about our security practices](https://aiscribe.app) and how we protect your patients' data.*

@@ -56,4 +56,4 @@ The question is no longer whether AI scribes work—the evidence is clear. The q
 
 ---
 
-*Ready to reclaim hours of your day? [Learn how Medical Scribe](https://medicalscribe.app) can transform your documentation workflow.*
+*Ready to reclaim hours of your day? [Learn how Medical Scribe](https://aiscribe.app) can transform your documentation workflow.*

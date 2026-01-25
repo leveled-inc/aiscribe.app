@@ -103,4 +103,4 @@ The practices that implement AI documentation tools aren't just investing in eff
 
 ---
 
-*Medical Scribe was built to give physicians their time back. [See how it works](https://medicalscribe.app) and why thousands of clinicians trust it daily.*
+*Medical Scribe was built to give physicians their time back. [See how it works](https://aiscribe.app) and why thousands of clinicians trust it daily.*
