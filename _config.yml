@@ -1,10 +1,10 @@
 # Site settings
 title: AI Scribe Reviews
-email: hello@medicalscribe.app
+email: hello@aiscribe.app
 description: >-
   The website reviews AI scribe technology for the medical field.
 baseurl: ""
-url: "https://medicalscribe.app"
+url: "https://aiscribe.app"
 
 # Build settings
 theme: minima
@@ -16,7 +16,7 @@ plugins:
 # SEO settings
 author:
   name: AI Scribe Reviews
-  url: https://medicalscribe.app
+  url: https://aiscribe.app
 
 twitter:
   card: summary_large_image
@@ -24,7 +24,7 @@ twitter:
 social:
   name: AI Scribe Reviews
   links:
-    - https://medicalscribe.app
+    - https://aiscribe.app
 
 logo: /assets/images/logo.svg
 
