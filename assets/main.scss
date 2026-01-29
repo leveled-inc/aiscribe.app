@@ -345,13 +345,14 @@ strong {
   margin-bottom: $spacing-lg;
   border-radius: $border-radius;
   overflow: hidden;
+  max-width: 100%;
 
   img {
     width: 100%;
     height: auto;
+    max-height: 300px;
     display: block;
     object-fit: cover;
-    max-height: 400px;
   }
 }
 
