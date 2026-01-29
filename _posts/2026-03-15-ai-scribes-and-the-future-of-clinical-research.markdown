@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Clinical Research"
 date: 2026-03-15
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-15-ai-scribes-and-the-future-of-clinical-research.png
 ---
 
 Clinical research is the bedrock of medical advancement, driving new treatments, diagnostics, and understandings of disease. However, the process is often slow, labor-intensive, and fraught with challenges related to data collection and management. Artificial intelligence (AI), particularly through the lens of AI medical scribes, is poised to revolutionize the landscape of clinical research. This post explores how AI scribes are shaping the future of clinical research.

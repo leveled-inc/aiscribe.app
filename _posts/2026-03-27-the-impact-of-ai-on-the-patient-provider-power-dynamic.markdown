@@ -3,6 +3,7 @@ layout: post
 title: "The Impact of AI on the Patient-Provider Power Dynamic"
 date: 2026-03-27
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-27-the-impact-of-ai-on-the-patient-provider-power-dynamic.png
 ---
 
 The relationship between patients and healthcare providers has traditionally been characterized by a significant power imbalance. Providers hold specialized knowledge and control access to care, while patients often feel disempowered. The advent of artificial intelligence (AI) in healthcare introduces new elements into this dynamic, with the potential to either exacerbate or rebalance the power structure. This post explores the nuanced impact of AI on the patient-provider power dynamic.

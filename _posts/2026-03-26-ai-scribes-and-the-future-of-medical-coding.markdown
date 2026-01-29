@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Medical Coding"
 date: 2026-03-26
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-26-ai-scribes-and-the-future-of-medical-coding.png
 ---
 
 Medical coding is a critical component of the healthcare revenue cycle, translating complex medical documentation into standardized codes used for billing, research, and public health tracking. It's a field that demands precision, up-to-date knowledge, and keen attention to detail. As artificial intelligence (AI) continues to advance, its role in medical coding is evolving, with AI medical scribes serving as a pivotal link. This post explores the future of medical coding with AI scribes.

@@ -3,6 +3,7 @@ layout: post
 title: "How AI is Reducing Healthcare Costs"
 date: 2026-03-28
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-28-how-ai-is-reducing-healthcare-costs.png
 ---
 
 Healthcare costs continue to rise globally, straining economies and limiting access to care for many. The search for sustainable solutions has turned to artificial intelligence (AI), which is demonstrating a significant potential to reduce expenditures across various facets of the healthcare system. This post explores the multifaceted ways AI is contributing to lower healthcare costs.

@@ -3,6 +3,7 @@ layout: post
 title: "How AI is Making Healthcare More Accessible"
 date: 2026-03-17
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-17-how-ai-is-making-healthcare-more-accessible.png
 ---
 
 Access to healthcare remains a significant global challenge, with millions worldwide lacking timely and adequate medical attention due to geographic barriers, socioeconomic factors, or provider shortages. Artificial intelligence (AI) is emerging as a powerful force to democratize healthcare, making it more accessible to a wider population. This post explores the various ways AI is enhancing healthcare accessibility.

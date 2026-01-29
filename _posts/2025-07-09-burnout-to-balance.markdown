@@ -3,6 +3,7 @@ layout: post
 title: "From Burnout to Balance: How AI Scribes Are Restoring Physician Well-being"
 date: 2025-07-09
 categories: [ai-documentation, physician-wellness]
+image: /assets/images/blog/2025-07-09-burnout-to-balance.png
 ---
 
 Physician burnout is more than just a buzzword; it's a public health crisis. Characterized by emotional exhaustion, depersonalization, and a low sense of personal accomplishment, burnout affects over half of all physicians. While the causes are multifaceted, one factor stands out as a primary driver: the overwhelming burden of administrative work, particularly clinical documentation.

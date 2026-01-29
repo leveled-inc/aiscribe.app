@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Medical Education"
 date: 2026-02-23
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-23-ai-scribes-and-the-future-of-medical-education.png
 ---
 
 Medical education is a long and arduous process. From medical school to residency, physicians spend years learning the art and science of medicine. But what if there was a way to make medical education more efficient and effective? This post explores the role of AI scribes in the future of medical education.

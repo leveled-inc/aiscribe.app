@@ -3,6 +3,7 @@ layout: post
 title: "AI and HIPAA: A Deep Dive into Compliance"
 date: 2026-02-04
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-04-ai-and-hipaa-a-deep-dive-into-compliance.png
 ---
 
 The Health Insurance Portability and Accountability Act (HIPAA) sets the standard for protecting sensitive patient data. As artificial intelligence (AI) becomes more prevalent in healthcare, it is crucial to ensure that these technologies are HIPAA compliant. This post provides a deep dive into AI and HIPAA compliance.

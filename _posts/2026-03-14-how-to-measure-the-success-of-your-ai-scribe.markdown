@@ -3,6 +3,7 @@ layout: post
 title: "How to Measure the Success of Your AI Scribe"
 date: 2026-03-14
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-14-how-to-measure-the-success-of-your-ai-scribe.png
 ---
 
 Implementing a new technology like an AI medical scribe is a significant investment for any healthcare practice. To ensure you're maximizing its value and achieving your operational goals, it's crucial to establish clear metrics for success. This post outlines key performance indicators (KPIs) and strategies for effectively measuring the success of your AI scribe implementation.

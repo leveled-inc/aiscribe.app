@@ -3,6 +3,7 @@ layout: post
 title: "The Pros and Cons of Ambient AI Scribes"
 date: 2026-03-08
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-08-the-pros-and-cons-of-ambient-ai-scribes.png
 ---
 
 Ambient AI scribes represent the cutting edge of clinical documentation technology, operating unobtrusively in the background to capture patient-provider conversations. While they offer revolutionary potential to transform the exam room experience, it's crucial to understand both their benefits and drawbacks. This post delves into the pros and cons of ambient AI scribes.

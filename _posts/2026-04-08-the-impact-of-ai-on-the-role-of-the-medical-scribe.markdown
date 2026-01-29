@@ -3,6 +3,7 @@ layout: post
 title: "The Impact of AI on the Role of the Medical Scribe"
 date: 2026-04-08
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-08-the-impact-of-ai-on-the-role-of-the-medical-scribe.png
 ---
 
 For years, human medical scribes have played a crucial role in alleviating the documentation burden on physicians, enhancing efficiency, and improving the quality of patient care. With the advent and rapid advancement of artificial intelligence (AI), particularly in the form of AI medical scribes, questions naturally arise about the future of the human scribe. This post explores the nuanced impact of AI on the role of the medical scribe.

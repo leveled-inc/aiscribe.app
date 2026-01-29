@@ -3,6 +3,7 @@ layout: post
 title: "The Future is Ambient: How AI Scribes Are Disappearing into the Exam Room"
 date: 2025-08-12
 categories: [ai-documentation, technology, future-of-healthcare]
+image: /assets/images/blog/2025-08-12-future-is-ambient.png
 ---
 
 For years, the computer in the exam room has been both a blessing and a curse. It provides instant access to a patient's history, but it also acts as a barrier, a distraction that pulls the physician's attention away from the human being in front of them. The holy grail of clinical documentation has always been a technology that works silently and invisibly in the background.

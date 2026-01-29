@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Precision Medicine"
 date: 2026-04-10
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-10-ai-scribes-and-the-future-of-precision-medicine.png
 ---
 
 Precision medicine, sometimes referred to as personalized medicine, is an innovative approach to disease treatment and prevention that takes into account individual variability in genes, environment, and lifestyle for each person. It promises to move beyond a one-size-fits-all approach to healthcare, delivering tailored interventions that are more effective and safer. Artificial intelligence (AI), especially in conjunction with AI medical scribes, is a foundational technology enabling the realization of precision medicine. This post explores the transformative role of AI scribes in the future of precision medicine.

@@ -3,6 +3,7 @@ layout: post
 title: "The ROI of AI Scribes: Calculating the True Value for Your Practice"
 date: 2025-06-22
 categories: [ai-documentation, business, roi]
+image: /assets/images/blog/2025-06-22-roi-of-ai-scribes.png
 ---
 
 Investing in new technology for your medical practice always comes down to one critical question: what is the return on investment (ROI)? AI scribe subscriptions come with a monthly price tag, so it's essential to understand how that cost translates into tangible financial benefits. While some returns are easy to calculate, others are less direct but equally important.

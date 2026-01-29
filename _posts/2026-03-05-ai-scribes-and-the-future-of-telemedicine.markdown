@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Telemedicine"
 date: 2026-03-05
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-05-ai-scribes-and-the-future-of-telemedicine.png
 ---
 
 Telemedicine has rapidly transformed healthcare delivery, offering convenience and accessibility to patients across geographical divides. As virtual consultations become more prevalent, the need for efficient and accurate documentation remains paramount. This post explores the symbiotic relationship between AI medical scribes and the future of telemedicine.

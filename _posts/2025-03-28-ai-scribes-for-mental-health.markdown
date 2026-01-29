@@ -3,6 +3,7 @@ layout: post
 title: "The Ultimate Guide to AI Scribes for Mental Health Professionals"
 date: 2025-03-28
 categories: [ai-documentation, physician-wellness, technology, specialty-guide]
+image: /assets/images/blog/2025-03-28-ai-scribes-for-mental-health.png
 ---
 
 The administrative burden of documentation weighs heavily on all healthcare professionals, but for mental health providers, it presents a unique challenge. The nuanced, dialogue-heavy nature of therapy sessions can be particularly difficult to capture accurately and efficiently after the fact. This is where AI scribes are emerging as a transformative tool, specifically tailored to the needs of therapists, psychologists, and psychiatrists.

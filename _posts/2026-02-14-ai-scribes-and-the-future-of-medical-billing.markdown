@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Medical Billing"
 date: 2026-02-14
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-14-ai-scribes-and-the-future-of-medical-billing.png
 ---
 
 Medical billing is a complex and often frustrating process. From CPT codes to ICD-10 codes, there is a lot to keep track of. But what if there was a way to simplify the process and improve its accuracy? This post explores the role of AI scribes in the future of medical billing.

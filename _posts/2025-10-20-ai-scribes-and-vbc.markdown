@@ -3,6 +3,7 @@ layout: post
 title: "The Role of AI Scribes in a Value-Based Care Model"
 date: 2025-10-20
 categories: [ai-documentation, business, future-of-healthcare]
+image: /assets/images/blog/2025-10-20-ai-scribes-and-vbc.png
 ---
 
 The healthcare industry is in the midst of a slow but steady seismic shift from a fee-for-service model to a value-based care (VBC) model. In this new paradigm, reimbursement is tied not to the volume of services provided, but to the quality and outcomes of patient care. Success in VBC requires a deep understanding of patient populations, meticulous tracking of quality metrics, and a strong focus on preventative care and chronic disease management.

@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Medical Translation"
 date: 2026-04-20
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-20-ai-scribes-and-the-future-of-medical-translation.png
 ---
 
 In our increasingly diverse world, linguistic barriers in healthcare can pose significant challenges to effective communication, patient safety, and equitable access to care. Traditional medical translation and interpretation services, while vital, can be costly and prone to delays. Artificial intelligence (AI), particularly in conjunction with AI medical scribes, is poised to revolutionize medical translation, making it faster, more accurate, and more accessible. This post explores the future of AI scribes and medical translation.

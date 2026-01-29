@@ -3,6 +3,7 @@ layout: post
 title: "How to Build a Business Case for an AI Scribe"
 date: 2026-04-17
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-17-how-to-build-a-business-case-for-an-ai-scribe.png
 ---
 
 Adopting new technology in a healthcare organization, especially one with a significant investment like an AI medical scribe, requires a robust business case. Decision-makers need to see clear evidence of financial return, operational efficiency, and improved outcomes. This post guides you through building a compelling business case for implementing an AI scribe in your practice or hospital system.

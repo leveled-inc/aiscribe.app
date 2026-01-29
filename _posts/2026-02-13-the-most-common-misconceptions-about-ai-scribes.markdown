@@ -3,6 +3,7 @@ layout: post
 title: "The Most Common Misconceptions About AI Scribes"
 date: 2026-02-13
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-13-the-most-common-misconceptions-about-ai-scribes.png
 ---
 
 AI medical scribes are a relatively new technology, and as with any new technology, there are a lot of misconceptions floating around. These misconceptions can create unnecessary fear and resistance, which can slow down the adoption of this valuable tool. This post debunks some of the most common misconceptions about AI scribes.

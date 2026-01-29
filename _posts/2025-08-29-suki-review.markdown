@@ -3,6 +3,7 @@ layout: post
 title: "A Review of Suki: The AI Assistant for Medical Dictation"
 date: 2025-08-29
 categories: [ai-documentation, technology, reviews]
+image: /assets/images/blog/2025-08-29-suki-review.png
 ---
 
 In the crowded market of AI-powered clinical documentation tools, Suki has carved out a distinct niche for itself. While many new players focus on "ambient" listening (capturing the natural patient-provider conversation), Suki has doubled down on creating a best-in-class, voice-driven "digital assistant." It's less of a silent scribe and more of an active, voice-command-driven partner.

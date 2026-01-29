@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Healthcare Administration"
 date: 2026-03-23
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-23-ai-scribes-and-the-future-of-healthcare-administration.png
 ---
 
 Healthcare administration is the silent engine that keeps hospitals and clinics running smoothly. From managing patient records and billing to scheduling and compliance, administrative tasks are numerous and often complex. While AI medical scribes are primarily lauded for their direct impact on physicians, their cascading benefits are poised to reshape the entire landscape of healthcare administration. This post explores how AI scribes are influencing the future of healthcare administration.

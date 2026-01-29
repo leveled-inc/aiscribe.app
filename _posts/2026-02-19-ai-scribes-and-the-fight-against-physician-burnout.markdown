@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Fight Against Physician Burnout"
 date: 2026-02-19
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-19-ai-scribes-and-the-fight-against-physician-burnout.png
 ---
 
 Physician burnout is a major crisis in the healthcare industry. It is characterized by emotional exhaustion, depersonalization, and a reduced sense of personal accomplishment. Burnout can have a serious impact on the well-being of physicians, as well as the quality and safety of patient care. This post explores how AI scribes are helping in the fight against physician burnout.

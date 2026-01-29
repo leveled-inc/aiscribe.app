@@ -3,6 +3,7 @@ layout: post
 title: "How to Get Started with an AI Scribe in Your Practice"
 date: 2026-04-22
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-22-how-to-get-started-with-an-ai-scribe-in-your-practice.png
 ---
 
 Integrating new technology into a busy medical practice can seem daunting, but the long-term benefits of an AI medical scribe—reduced burnout, increased efficiency, and improved patient care—are well worth the effort. This post provides a clear, step-by-step guide on how to successfully get started with an AI scribe in your practice.

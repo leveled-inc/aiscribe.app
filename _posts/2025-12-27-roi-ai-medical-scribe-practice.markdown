@@ -4,6 +4,7 @@ title: "Calculating the ROI of an AI Medical Scribe for Your Practice"
 date: 2025-12-27
 categories: [business, roi]
 description: "A practical framework for understanding the financial return on investment when implementing AI-powered clinical documentation."
+image: /assets/images/blog/2025-12-27-roi-ai-medical-scribe-practice.png
 ---
 
 Healthcare executives increasingly want AI solutions that "pay for themselves with tangible results." AI medical scribes are among the clearest examples of technology delivering measurable ROI—but understanding exactly how requires looking at multiple value streams.

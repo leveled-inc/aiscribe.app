@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Continuing Medical Education"
 date: 2026-04-04
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-04-ai-scribes-and-the-future-of-continuing-medical-education.png
 ---
 
 Continuing Medical Education (CME) is vital for healthcare professionals to maintain their licenses, stay updated on the latest medical advancements, and provide optimal patient care. However, traditional CME often struggles with engagement, personalization, and demonstrating direct impact on practice. Artificial intelligence (AI), particularly through AI medical scribes, is emerging as a powerful tool to reshape the future of CME. This post explores how AI scribes are influencing the evolution of medical education.

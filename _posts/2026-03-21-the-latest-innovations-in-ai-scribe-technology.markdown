@@ -3,6 +3,7 @@ layout: post
 title: "The Latest Innovations in AI Scribe Technology"
 date: 2026-03-21
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-21-the-latest-innovations-in-ai-scribe-technology.png
 ---
 
 The field of artificial intelligence (AI) is one of constant evolution, and AI medical scribe technology is advancing at an exhilarating pace. What began as sophisticated speech-to-text tools has rapidly transformed into intelligent assistants capable of understanding clinical context, generating nuanced notes, and integrating seamlessly into complex workflows. This post highlights the latest innovations in AI scribe technology that are pushing the boundaries of what's possible.

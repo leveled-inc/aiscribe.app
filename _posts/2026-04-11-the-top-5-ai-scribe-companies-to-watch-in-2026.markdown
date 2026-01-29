@@ -3,6 +3,7 @@ layout: post
 title: "The Top 5 AI Scribe Companies to Watch in 2026"
 date: 2026-04-11
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-11-the-top-5-ai-scribe-companies-to-watch-in-2026.png
 ---
 
 The AI medical scribe market is dynamic and rapidly expanding, with new innovations and solutions emerging constantly. As we move further into 2026, several companies are distinguishing themselves through their technology, market penetration, and commitment to physician and patient needs. This post highlights the top 5 AI scribe companies to watch closely this year.

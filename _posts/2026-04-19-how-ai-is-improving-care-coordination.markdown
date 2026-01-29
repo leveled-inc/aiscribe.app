@@ -3,6 +3,7 @@ layout: post
 title: "How AI is Improving Care Coordination"
 date: 2026-04-19
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-19-how-ai-is-improving-care-coordination.png
 ---
 
 Effective care coordination is paramount for delivering high-quality, patient-centered healthcare, especially for individuals with complex conditions who interact with multiple providers across various settings. Poor coordination can lead to fragmented care, medical errors, unnecessary costs, and patient dissatisfaction. Artificial intelligence (AI) is emerging as a powerful tool to bridge communication gaps and streamline processes, fundamentally improving care coordination. This post explores how AI is revolutionizing care coordination.

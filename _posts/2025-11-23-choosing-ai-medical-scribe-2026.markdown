@@ -4,6 +4,7 @@ title: "How to Choose an AI Medical Scribe in 2026: A Practical Buyer's Guide"
 date: 2025-11-23
 categories: [buying-guide, comparison]
 description: "With dozens of AI documentation solutions now available, here's what to evaluate when selecting the right tool for your practice."
+image: /assets/images/blog/2025-11-23-choosing-ai-medical-scribe-2026.png
 ---
 
 The AI medical scribe market has matured rapidly. Two years ago, these tools were experimental pilots at innovative health systems. Today, 66% of physicians report using AI tools, and ambient documentation has moved into the mainstream.

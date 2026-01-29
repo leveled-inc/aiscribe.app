@@ -3,6 +3,7 @@ layout: post
 title: "The History of Medical Transcription and AI"
 date: 2026-02-20
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-20-the-history-of-medical-transcription-and-ai.png
 ---
 
 Medical transcription has a long and storied history. For centuries, physicians have relied on scribes to document their patient encounters. In the beginning, these scribes were simply people who were good at taking notes. But as technology has evolved, so too has the role of the medical scribe. This post explores the history of medical transcription and the rise of AI.

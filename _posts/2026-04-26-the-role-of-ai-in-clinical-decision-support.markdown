@@ -3,6 +3,7 @@ layout: post
 title: "The Role of AI in Clinical Decision Support"
 date: 2026-04-26
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-26-the-role-of-ai-in-clinical-decision-support.png
 ---
 
 Clinical Decision Support (CDS) systems provide clinicians with patient-specific assessments or recommendations to aid in decision-making at the point of care. While traditional CDS has been around for decades, artificial intelligence (AI) is supercharging these systems, making them more intelligent, proactive, and seamlessly integrated into the clinical workflow. This post explores the transformative role of AI in clinical decision support.

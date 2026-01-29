@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Challenge of Multilingual Support"
 date: 2026-03-09
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-09-ai-scribes-and-the-challenge-of-multilingual-support.png
 ---
 
 In an increasingly diverse and globalized world, healthcare providers frequently encounter patients who speak a language different from their own. This linguistic diversity presents a significant challenge for clinical documentation. While AI medical scribes offer a promising solution for automating note-taking, supporting multiple languages adds a layer of complexity. This post explores the challenges and advancements in providing multilingual support for AI scribes.

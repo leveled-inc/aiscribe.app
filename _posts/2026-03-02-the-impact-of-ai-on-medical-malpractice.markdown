@@ -3,6 +3,7 @@ layout: post
 title: "The Impact of AI on Medical Malpractice"
 date: 2026-03-02
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-02-the-impact-of-ai-on-medical-malpractice.png
 ---
 
 The introduction of artificial intelligence (AI) into clinical practice holds immense promise for improving patient care, but it also brings forth complex legal and ethical questions, particularly concerning medical malpractice. As AI systems become more autonomous in diagnosis and treatment recommendations, understanding liability becomes crucial. This post explores the potential impact of AI on medical malpractice.

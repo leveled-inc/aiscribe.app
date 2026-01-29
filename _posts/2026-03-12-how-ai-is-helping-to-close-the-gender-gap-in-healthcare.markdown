@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Rural Medicine"
 date: 2026-03-12
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-12-how-ai-is-helping-to-close-the-gender-gap-in-healthcare.png
 ---
 
 Rural communities often face significant challenges in accessing quality healthcare. Physician shortages, geographic isolation, and limited resources contribute to disparities in health outcomes. Artificial intelligence (AI), particularly in the form of AI medical scribes, offers a transformative solution to bolster rural healthcare and ensure equitable access. This post explores how AI scribes are shaping the future of rural medicine.

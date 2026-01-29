@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Global Health"
 date: 2026-03-29
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-29-ai-scribes-and-the-future-of-global-health.png
 ---
 
 Global health faces monumental challenges, from pandemics and infectious diseases to disparities in access to care and chronic conditions in low-resource settings. Artificial intelligence (AI), particularly in its application as AI medical scribes, offers innovative solutions to help bridge these gaps and advance global health equity. This post explores the transformative potential of AI scribes in the future of global health.

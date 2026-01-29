@@ -3,6 +3,7 @@ layout: post
 title: "Beyond the Hype: A Realistic Look at the Limitations of AI Scribes"
 date: 2025-03-11
 categories: [ai-documentation, technology, buying-guide]
+image: /assets/images/blog/2025-03-11-limitations-of-ai-scribes.png
 ---
 
 The buzz around AI medical scribes is electric, and for good reason. They promise to save physicians hours of documentation time, reduce burnout, and improve patient interaction. While these benefits are very real, it's also crucial for any practice considering adoption to have a clear-eyed, realistic understanding of the technology's current limitations.

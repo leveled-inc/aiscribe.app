@@ -3,6 +3,7 @@ layout: post
 title: "The Technology Behind AI Medical Scribes"
 date: 2026-02-08
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-08-the-technology-behind-ai-medical-scribes.png
 ---
 
 AI medical scribes seem almost magical in their ability to transform a natural conversation into a structured clinical note. But what is the technology that powers these intelligent assistants? This post takes a look under the hood at the technology behind AI medical scribes.

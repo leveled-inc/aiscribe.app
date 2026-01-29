@@ -3,6 +3,7 @@ layout: post
 title: "How to Integrate an AI Scribe into Your Workflow"
 date: 2026-02-22
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-22-how-to-integrate-an-ai-scribe-into-your-workflow.png
 ---
 
 Integrating a new technology into your workflow can be a daunting task. But with a little planning and preparation, it can also be a smooth and successful process. This post provides a step-by-step guide to integrating an AI scribe into your workflow.

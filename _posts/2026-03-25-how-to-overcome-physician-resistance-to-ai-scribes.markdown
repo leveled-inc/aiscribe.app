@@ -3,6 +3,7 @@ layout: post
 title: "How to Overcome Physician Resistance to AI Scribes"
 date: 2026-03-25
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-25-how-to-overcome-physician-resistance-to-ai-scribes.png
 ---
 
 The benefits of AI medical scribes—reduced administrative burden, improved efficiency, and enhanced patient engagement—are widely touted. Yet, some physicians remain hesitant or even resistant to adopting this new technology. Overcoming this resistance is crucial for successful implementation and realizing the full potential of AI in healthcare. This post offers strategies to get physicians on board with AI scribes.

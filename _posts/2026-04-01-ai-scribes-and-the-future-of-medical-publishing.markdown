@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Medical Publishing"
 date: 2026-04-01
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-01-ai-scribes-and-the-future-of-medical-publishing.png
 ---
 
 Medical publishing is the cornerstone of scientific dissemination, enabling researchers to share findings, clinicians to stay abreast of best practices, and the collective body of medical knowledge to grow. While the process of authoring, peer-reviewing, and publishing has remained relatively stable, artificial intelligence (AI), particularly in the form of AI medical scribes, is poised to subtly but profoundly influence its future. This post explores the impact of AI scribes on medical publishing.

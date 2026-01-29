@@ -3,6 +3,7 @@ layout: post
 title: "How to Ensure Your AI Scribe is HIPAA Compliant"
 date: 2026-03-31
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-31-how-to-ensure-your-ai-scribe-is-hipaa-compliant.png
 ---
 
 In the healthcare industry, the Health Insurance Portability and Accountability Act (HIPAA) is the bedrock of patient privacy and data security. As practices increasingly adopt AI medical scribes to streamline documentation, ensuring these innovative tools are fully HIPAA compliant is not just a best practice—it's a legal imperative. This post guides healthcare providers on how to ensure their AI scribe is HIPAA compliant.

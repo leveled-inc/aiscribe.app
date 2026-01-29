@@ -3,6 +3,7 @@ layout: post
 title: "The Top 5 AI Scribe Features to Look For"
 date: 2026-02-18
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-18-the-top-5-ai-scribe-features-to-look-for.png
 ---
 
 Not all AI scribes are created equal. When you are choosing an AI scribe for your practice, it is important to look for a solution that has the features you need to be successful. This post explores the top 5 AI scribe features to look for.

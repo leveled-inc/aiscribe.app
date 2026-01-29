@@ -3,6 +3,7 @@ layout: post
 title: "How AI Scribes Can Help You See More Patients"
 date: 2026-03-01
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-01-how-ai-scribes-can-help-you-see-more-patients.png
 ---
 
 In a healthcare landscape where demand often outstrips supply, physicians are constantly looking for ways to optimize their time and improve patient access. The administrative burden, particularly clinical documentation, is a well-known time sink. This post explores how AI medical scribes are a powerful tool to help practices see more patients without compromising on quality of care or increasing physician burnout.

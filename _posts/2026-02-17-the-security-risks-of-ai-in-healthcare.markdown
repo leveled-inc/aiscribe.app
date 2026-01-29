@@ -3,6 +3,7 @@ layout: post
 title: "The Security Risks of AI in Healthcare"
 date: 2026-02-17
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-17-the-security-risks-of-ai-in-healthcare.png
 ---
 
 Artificial intelligence (AI) has the potential to transform healthcare, but it also introduces new security risks. As with any new technology, it is important to be aware of these risks and to take steps to mitigate them. This post explores some of the security risks of AI in healthcare.

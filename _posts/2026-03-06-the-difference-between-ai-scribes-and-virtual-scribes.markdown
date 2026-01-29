@@ -3,6 +3,7 @@ layout: post
 title: "The Difference Between AI Scribes and Virtual Scribes"
 date: 2026-03-06
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-06-the-difference-between-ai-scribes-and-virtual-scribes.png
 ---
 
 In the quest to reduce documentation burden and enhance physician efficiency, two popular solutions have emerged: AI medical scribes and virtual medical scribes. While both aim to free up physicians' time, they operate on fundamentally different principles and offer distinct advantages. This post clarifies the differences between AI scribes and virtual scribes.

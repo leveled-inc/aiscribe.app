@@ -4,6 +4,7 @@ title: "HIPAA Compliance and AI Medical Scribes: What Every Practice Must Know i
 date: 2026-01-05
 categories: [compliance, security]
 description: "Understanding the critical privacy and security requirements for deploying AI-powered clinical documentation in your healthcare practice."
+image: /assets/images/blog/2026-01-05-hipaa-compliance-ai-medical-scribes.png
 ---
 
 As AI medical scribes become standard in clinical practice, understanding HIPAA compliance requirements isn't optional—it's essential. The January 2025 updates to the HIPAA Security Rule represent the most significant changes in 20 years, and they directly impact how practices must evaluate and deploy AI documentation tools.

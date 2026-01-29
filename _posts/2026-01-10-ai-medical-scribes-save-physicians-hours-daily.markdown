@@ -4,6 +4,7 @@ title: "How AI Medical Scribes Are Saving Physicians 2+ Hours Every Day"
 date: 2026-01-10
 categories: [ai-documentation, productivity]
 description: "New research shows AI-powered ambient documentation is transforming clinical workflows, with physicians reclaiming hours previously lost to EHR documentation."
+image: /assets/images/blog/2026-01-10-ai-medical-scribes-save-physicians-hours-daily.png
 ---
 
 The numbers are staggering: physicians spend an average of 16 minutes per patient encounter just navigating electronic health records. For a busy clinician seeing 20-25 patients daily, that adds up to over 5 hours of documentation work—time that could be spent with patients or reclaimed for personal life.

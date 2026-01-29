@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes for Every Specialty: A Guide"
 date: 2026-02-07
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-07-ai-scribes-for-every-specialty-a-guide.png
 ---
 
 AI medical scribes are not just for primary care physicians. They can be used in a wide range of specialties, from cardiology to orthopedics to mental health. However, the needs of each specialty are different, so it is important to choose an AI scribe that is tailored to your specific workflow. This post provides a guide to AI scribes for every specialty.

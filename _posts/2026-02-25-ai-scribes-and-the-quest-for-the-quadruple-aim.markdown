@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Quest for the Quadruple Aim"
 date: 2026-02-25
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-25-ai-scribes-and-the-quest-for-the-quadruple-aim.png
 ---
 
 The Triple Aim—improving the patient experience, improving the health of populations, and reducing the per capita cost of healthcare—has been a guiding principle for healthcare reform for over a decade. More recently, a fourth aim has been added: improving the work life of healthcare providers, including clinician well-being. This is known as the Quadruple Aim. This post explores how AI scribes are helping healthcare organizations achieve the Quadruple Aim.

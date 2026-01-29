@@ -3,6 +3,7 @@ layout: post
 title: "A Deep Dive into Freed AI: Is It the Right Scribe for Your Clinic?"
 date: 2025-02-08
 categories: [ai-documentation, buying-guide, technology, reviews]
+image: /assets/images/blog/2025-02-08-freed-ai-deep-dive.png
 ---
 
 As AI medical scribes continue to gain traction, clinicians are faced with a dizzying array of options, each promising to alleviate the crushing burden of documentation. Among the frontrunners, particularly for small to mid-sized clinics, is Freed AI. Known for its quick setup and user-friendly interface, Freed AI has carved out a significant space in the market. But does it live up to the hype?

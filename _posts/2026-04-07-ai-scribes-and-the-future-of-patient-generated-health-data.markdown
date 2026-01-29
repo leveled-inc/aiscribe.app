@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Patient-Generated Health Data"
 date: 2026-04-07
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-07-ai-scribes-and-the-future-of-patient-generated-health-data.png
 ---
 
 Patient-generated health data (PGHD), gathered from wearables, home monitoring devices, and patient-reported outcomes (PROs), offers a rich, continuous stream of information beyond episodic clinic visits. This data holds immense potential to personalize care and improve outcomes, but integrating it effectively into the clinical workflow has been a challenge. Artificial intelligence (AI), particularly in conjunction with AI medical scribes, is poised to bridge this gap and unlock the full power of PGHD. This post explores the future of AI scribes and PGHD.

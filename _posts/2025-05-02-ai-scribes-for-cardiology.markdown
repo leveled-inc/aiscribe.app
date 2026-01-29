@@ -3,6 +3,7 @@ layout: post
 title: "How AI Scribes Are Revolutionizing Cardiology Documentation"
 date: 2025-05-02
 categories: [ai-documentation, technology, specialty-guide, efficiency]
+image: /assets/images/blog/2025-05-02-ai-scribes-for-cardiology.png
 ---
 
 Cardiology is a specialty of immense complexity, characterized by rapid-fire consultations, a vast vocabulary of technical jargon, and the need for meticulously detailed documentation. The sheer volume of data from physical exams, ECGs, echocardiograms, and patient histories can make clinical charting a time-consuming and error-prone process. This is precisely why AI scribes are having a revolutionary impact on the field.

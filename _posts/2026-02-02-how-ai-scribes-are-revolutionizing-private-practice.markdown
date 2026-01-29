@@ -3,6 +3,7 @@ layout: post
 title: "How AI Scribes are Revolutionizing Private Practice"
 date: 2026-02-02
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-02-how-ai-scribes-are-revolutionizing-private-practice.png
 ---
 
 Private practices are the backbone of the healthcare system, but they are also under immense pressure. Physicians in private practice often juggle patient care, administrative tasks, and the challenges of running a business. This is where AI medical scribes come in, revolutionizing the way private practices operate.

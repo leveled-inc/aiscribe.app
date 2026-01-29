@@ -3,6 +3,7 @@ layout: post
 title: "How to Use an AI Scribe to Improve Patient Engagement"
 date: 2026-03-19
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-19-how-to-use-an-ai-scribe-to-improve-patient-engagement.png
 ---
 
 Patient engagement is a cornerstone of effective healthcare, leading to better adherence to treatment plans, improved health outcomes, and greater patient satisfaction. While AI medical scribes are primarily known for streamlining documentation, their ability to transform the patient-provider interaction can significantly boost patient engagement. This post explores practical ways to leverage an AI scribe for improved patient involvement.

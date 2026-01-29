@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Interoperability in Healthcare"
 date: 2026-04-15
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-15-ai-scribes-and-the-future-of-interoperability-in-healthcare.png
 ---
 
 Healthcare interoperability—the ability of different information systems, devices, and applications to access, exchange, integrate, and cooperatively use data in a coordinated manner—is a persistent challenge that hinders efficient, patient-centered care. While significant efforts have been made to standardize data exchange, the unstructured nature of much clinical information remains a bottleneck. Artificial intelligence (AI), particularly through AI medical scribes, is emerging as a powerful catalyst for a more interoperable healthcare future. This post explores how AI scribes are driving interoperability.

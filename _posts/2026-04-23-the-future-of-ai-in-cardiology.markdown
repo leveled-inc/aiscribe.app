@@ -3,6 +3,7 @@ layout: post
 title: "The Future of AI in Cardiology"
 date: 2026-04-23
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-23-the-future-of-ai-in-cardiology.png
 ---
 
 Cardiovascular diseases remain the leading cause of mortality worldwide, posing immense challenges to healthcare systems and individual well-being. Cardiology is a data-rich specialty, with information flowing from imaging, ECGs, patient histories, and genetic tests. This abundance of data makes it a prime candidate for transformation by artificial intelligence (AI). This post explores the exciting future of AI in cardiology, from diagnostics to treatment and prevention.

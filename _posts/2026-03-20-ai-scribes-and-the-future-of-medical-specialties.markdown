@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Medical Specialties"
 date: 2026-03-20
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-20-ai-scribes-and-the-future-of-medical-specialties.png
 ---
 
 While AI medical scribes are often discussed in the context of general practice, their impact is far from limited to primary care. Indeed, these intelligent assistants are poised to profoundly reshape workflows and capabilities across virtually every medical specialty. This post explores how AI scribes are carving out a future in diverse medical fields.

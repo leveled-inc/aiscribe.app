@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Future of Medical Imaging"
 date: 2026-04-25
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-25-ai-scribes-and-the-future-of-medical-imaging.png
 ---
 
 Medical imaging—encompassing X-rays, CT scans, MRIs, and ultrasounds—is indispensable for diagnosis, treatment planning, and monitoring disease progression. The field is data-intensive, generating vast amounts of visual information that requires expert interpretation. Artificial intelligence (AI) is already profoundly impacting medical imaging, and its synergy with AI medical scribes promises an even more integrated and efficient future. This post explores how AI scribes are connecting with the future of medical imaging.

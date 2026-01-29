@@ -8,14 +8,21 @@ layout: default
       <h2 class="post-list-heading">Latest Articles</h2>
       <ul class="post-list">
         {%- for post in site.posts -%}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          {%- if post.description -%}
-            <p class="post-excerpt">{{ post.description }}</p>
-          {%- elsif post.excerpt -%}
-            <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        <li class="{% if post.image %}has-image{% endif %}">
+          {%- if post.image -%}
+          <a class="post-thumbnail" href="{{ post.url | relative_url }}">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
+          </a>
           {%- endif -%}
+          <div class="post-content-preview">
+            <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            {%- if post.description -%}
+              <p class="post-excerpt">{{ post.description }}</p>
+            {%- elsif post.excerpt -%}
+              <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            {%- endif -%}
+          </div>
         </li>
         {%- endfor -%}
       </ul>

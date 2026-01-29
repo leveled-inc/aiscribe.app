@@ -3,6 +3,7 @@ layout: post
 title: "How to Use an AI Scribe to Improve Your Bottom Line"
 date: 2026-04-12
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-12-how-to-use-an-ai-scribe-to-improve-your-bottom-line.png
 ---
 
 In today's challenging healthcare economic environment, practices are constantly seeking ways to improve financial performance without compromising patient care. Artificial intelligence (AI) medical scribes, while lauded for reducing physician burnout and enhancing efficiency, also offer significant avenues for boosting a practice's bottom line. This post explores practical strategies on how to leverage an AI scribe to improve your financial health.

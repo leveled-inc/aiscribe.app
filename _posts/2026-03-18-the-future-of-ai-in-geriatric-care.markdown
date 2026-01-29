@@ -3,6 +3,7 @@ layout: post
 title: "The Future of AI in Geriatric Care"
 date: 2026-03-18
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-18-the-future-of-ai-in-geriatric-care.png
 ---
 
 As the global population ages, the demand for quality geriatric care is rapidly increasing. Caring for older adults often involves complex health needs, chronic conditions, and a focus on maintaining quality of life. Artificial intelligence (AI) is emerging as a powerful ally in this critical field, promising to enhance care, support caregivers, and improve outcomes for the elderly. This post explores the exciting future of AI in geriatric care.

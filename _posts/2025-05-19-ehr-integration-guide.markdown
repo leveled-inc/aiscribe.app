@@ -3,6 +3,7 @@ layout: post
 title: "Seamless EHR Integration: What to Look for in an AI Scribe"
 date: 2025-05-19
 categories: [ai-documentation, technology, buying-guide]
+image: /assets/images/blog/2025-05-19-ehr-integration-guide.png
 ---
 
 An AI scribe can be a revolutionary tool for reducing documentation time, but its true power is only unlocked when it works in harmony with your Electronic Health Record (EHR) system. Without a smooth connection, you risk trading one form of administrative hassle for another—endless copying and pasting.

@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Importance of Data Security"
 date: 2026-03-03
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-03-ai-scribes-and-the-importance-of-data-security.png
 ---
 
 In an era defined by digital transformation, the importance of data security cannot be overstated, especially in healthcare. AI medical scribes, while offering revolutionary benefits, handle some of the most sensitive personal information imaginable: protected health information (PHI). This post underscores the critical importance of robust data security protocols for AI scribes and what healthcare providers should look for.

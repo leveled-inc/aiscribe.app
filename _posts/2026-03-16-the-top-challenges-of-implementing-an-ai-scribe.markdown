@@ -3,6 +3,7 @@ layout: post
 title: "The Top Challenges of Implementing an AI Scribe"
 date: 2026-03-16
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-16-the-top-challenges-of-implementing-an-ai-scribe.png
 ---
 
 The promise of AI medical scribes—reduced documentation burden, improved efficiency, and enhanced patient care—is compelling. However, like any significant technological adoption, implementing an AI scribe is not without its challenges. Understanding these hurdles beforehand can help practices prepare and ensure a smoother transition. This post outlines the top challenges of implementing an AI scribe.

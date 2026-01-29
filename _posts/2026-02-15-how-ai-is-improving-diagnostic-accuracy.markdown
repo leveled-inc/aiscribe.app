@@ -3,6 +3,7 @@ layout: post
 title: "How AI is Improving Diagnostic Accuracy"
 date: 2026-02-15
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-15-how-ai-is-improving-diagnostic-accuracy.png
 ---
 
 Diagnostic errors are a major problem in healthcare, leading to delayed treatment, patient harm, and increased costs. But what if there was a way to improve diagnostic accuracy and reduce the rate of errors? This post explores how artificial intelligence (AI) is helping to improve diagnostic accuracy.

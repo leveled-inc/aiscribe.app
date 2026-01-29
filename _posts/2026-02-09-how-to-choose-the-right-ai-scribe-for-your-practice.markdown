@@ -3,6 +3,7 @@ layout: post
 title: "How to Choose the Right AI Scribe for Your Practice"
 date: 2026-02-09
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-09-how-to-choose-the-right-ai-scribe-for-your-practice.png
 ---
 
 Choosing the right AI scribe for your practice is a critical decision that can have a significant impact on your workflow, efficiency, and bottom line. With so many options on the market, it can be overwhelming to know where to start. This post provides a step-by-step guide to choosing the right AI scribe for your practice.

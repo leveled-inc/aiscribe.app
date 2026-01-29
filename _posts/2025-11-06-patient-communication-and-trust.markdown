@@ -3,6 +3,7 @@ layout: post
 title: "The Impact of AI Scribes on Patient Communication and Trust"
 date: 2025-11-06
 categories: [physician-wellness, technology]
+image: /assets/images/blog/2025-11-06-patient-communication-and-trust.png
 ---
 
 The introduction of the computer into the exam room fundamentally altered the dynamic of the patient-provider relationship. The term "computer-facedown" became a common descriptor for physicians forced to divide their attention between their patient and their screen. This digital barrier has long been a source of patient dissatisfaction and a hurdle to effective communication.

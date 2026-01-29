@@ -3,6 +3,7 @@ layout: post
 title: "The Patient's Perspective on AI Scribes"
 date: 2026-02-12
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-12-the-patients-perspective-on-ai-scribes.png
 ---
 
 The adoption of AI in healthcare is not just about improving the lives of physicians. It is also about creating a better experience for patients. But what do patients actually think about AI medical scribes? This post explores the patient's perspective on this innovative technology.

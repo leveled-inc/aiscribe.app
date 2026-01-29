@@ -3,6 +3,7 @@ layout: post
 title: "5 Ways to Prepare Your Practice for AI Scribe Implementation"
 date: 2025-07-26
 categories: [ai-documentation, business, efficiency]
+image: /assets/images/blog/2025-07-26-prepare-for-ai-scribe.png
 ---
 
 Adopting an AI scribe is one of the most impactful decisions a modern medical practice can make. The promise of reduced documentation time and decreased physician burnout is substantial. However, a successful rollout requires more than just choosing a vendor and flipping a switch. Thoughtful preparation is key to ensuring a smooth transition and maximizing the technology's benefits from day one.

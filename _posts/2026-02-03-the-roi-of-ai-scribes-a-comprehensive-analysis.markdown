@@ -3,6 +3,7 @@ layout: post
 title: "The ROI of AI Scribes: A Comprehensive Analysis"
 date: 2026-02-03
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-03-the-roi-of-ai-scribes-a-comprehensive-analysis.png
 ---
 
 In today's value-based healthcare landscape, every investment must be justified by a clear return on investment (ROI). AI medical scribes are no exception. While the benefits of AI scribes in terms of improved efficiency and reduced physician burnout are well-known, it is also important to quantify their financial impact. This post provides a comprehensive analysis of the ROI of AI scribes.

@@ -3,6 +3,7 @@ layout: post
 title: "HIPAA Compliance and AI Scribes: A Non-Negotiable"
 date: 2025-06-05
 categories: [ai-documentation, technology, compliance, security]
+image: /assets/images/blog/2025-06-05-hipaa-compliance-ai-scribes.png
 ---
 
 The promise of AI scribes is immense: reduced burnout, more time with patients, and better documentation. However, all these benefits are instantly negated if the technology compromises patient privacy. In the world of healthcare technology, HIPAA (Health Insurance Portability and Accountability Act) compliance is not a feature—it's the absolute foundation upon which everything else must be built.

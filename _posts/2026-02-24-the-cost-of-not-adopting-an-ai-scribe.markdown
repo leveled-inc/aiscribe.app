@@ -3,6 +3,7 @@ layout: post
 title: "The Cost of Not Adopting an AI Scribe"
 date: 2026-02-24
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-24-the-cost-of-not-adopting-an-ai-scribe.png
 ---
 
 In today's rapidly evolving healthcare landscape, the adoption of new technologies is no longer a luxury but a necessity. While many healthcare organizations are embracing artificial intelligence (AI) to improve efficiency and patient care, some are still hesitant. This post explores the hidden costs of not adopting an AI scribe.

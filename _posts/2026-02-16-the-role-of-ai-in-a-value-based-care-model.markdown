@@ -3,6 +3,7 @@ layout: post
 title: "The Role of AI in a Value-Based Care Model"
 date: 2026-02-16
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-16-the-role-of-ai-in-a-value-based-care-model.png
 ---
 
 The healthcare industry is in the midst of a major transformation from a fee-for-service model to a value-based care model. In a value-based care model, healthcare providers are reimbursed based on the quality of care they provide, not the quantity of services they deliver. This shift is forcing healthcare organizations to find new ways to improve patient outcomes while reducing costs. This post explores the role of artificial intelligence (AI) in a value-based care model.

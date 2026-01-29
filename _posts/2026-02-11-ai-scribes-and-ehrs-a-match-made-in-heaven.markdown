@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and EHRs: A Match Made in Heaven"
 date: 2026-02-11
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-11-ai-scribes-and-ehrs-a-match-made-in-heaven.png
 ---
 
 Electronic health records (EHRs) have become the backbone of modern healthcare, but they have also been a major source of frustration for physicians. The cumbersome interfaces and endless clicking can be a major drain on time and energy. But what if there was a way to make EHRs more user-friendly and efficient? This post explores how AI medical scribes and EHRs are a match made in heaven.

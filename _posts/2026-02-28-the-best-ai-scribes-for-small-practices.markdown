@@ -3,6 +3,7 @@ layout: post
 title: "The Best AI Scribes for Small Practices"
 date: 2026-02-28
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-28-the-best-ai-scribes-for-small-practices.png
 ---
 
 Small practices often face unique challenges. Limited resources, smaller staff, and the need for personalized patient care mean that every investment must be strategic and impactful. While AI medical scribes offer significant benefits, choosing the right one for a small practice requires careful consideration. This post guides small practice owners to the best AI scribes available.

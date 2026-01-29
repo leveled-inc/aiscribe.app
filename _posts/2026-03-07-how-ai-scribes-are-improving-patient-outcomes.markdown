@@ -3,6 +3,7 @@ layout: post
 title: "How AI Scribes are Improving Patient Outcomes"
 date: 2026-03-07
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-07-how-ai-scribes-are-improving-patient-outcomes.png
 ---
 
 The ultimate goal of any innovation in healthcare is to improve patient outcomes. While AI medical scribes are often lauded for their ability to reduce physician burnout and enhance efficiency, their most profound impact lies in their direct and indirect contributions to better patient health. This post explores the various ways AI scribes are improving patient outcomes.

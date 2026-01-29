@@ -3,6 +3,7 @@ layout: post
 title: "How AI is Transforming the Patient Experience"
 date: 2026-03-22
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-22-how-ai-is-transforming-the-patient-experience.png
 ---
 
 The patient experience is rapidly becoming a key differentiator in healthcare. Beyond clinical outcomes, how patients feel about their journey—from initial appointment scheduling to follow-up care—profoundly impacts their satisfaction and loyalty. Artificial intelligence (AI) is emerging as a powerful catalyst for transforming the patient experience, making it more personalized, efficient, and empathetic. This post explores how AI is reshaping the patient journey.

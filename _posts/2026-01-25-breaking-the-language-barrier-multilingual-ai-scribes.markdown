@@ -3,6 +3,7 @@ layout: post
 title: "Breaking the Language Barrier: Why Multilingual Support is the Next Frontier for AI Medical Scribes"
 date: 2026-01-25
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-01-25-breaking-the-language-barrier-multilingual-ai-scribes.png
 ---
 
 In today’s increasingly globalized world, the doctor-patient relationship often transcends linguistic borders. In clinics from New York to London, and Sydney to Berlin, healthcare providers encounter a rich tapestry of languages every single day. While medical expertise is universal, the documentation of that expertise has historically been tethered to a few dominant languages.

@@ -3,6 +3,7 @@ layout: post
 title: "The Learning Curve: Training Your Staff on AI Scribes"
 date: 2026-02-10
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-10-the-learning-curve-training-your-staff-on-ai-scribes.png
 ---
 
 Implementing any new technology in your practice requires a certain amount of training and adjustment. AI medical scribes are no exception. While these intelligent assistants are designed to be user-friendly, there is still a learning curve involved in getting your staff up to speed. This post provides a guide to training your staff on AI scribes.

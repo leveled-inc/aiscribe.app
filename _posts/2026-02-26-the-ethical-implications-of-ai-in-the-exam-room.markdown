@@ -3,6 +3,7 @@ layout: post
 title: "The Ethical Implications of AI in the Exam Room"
 date: 2026-02-26
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-26-the-ethical-implications-of-ai-in-the-exam-room.png
 ---
 
 The integration of artificial intelligence (AI) into healthcare, particularly within the intimate setting of the exam room, raises a host of ethical considerations. While AI promises to enhance efficiency and diagnostic accuracy, it also introduces complexities related to patient autonomy, privacy, algorithmic bias, and the very nature of the patient-provider relationship. This post delves into the ethical implications of AI in the exam room.

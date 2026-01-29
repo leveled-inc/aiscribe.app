@@ -3,6 +3,7 @@ layout: post
 title: "The Top 5 Benefits of Using an AI Scribe"
 date: 2026-04-21
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-21-the-top-5-benefits-of-using-an-ai-scribe.png
 ---
 
 In an increasingly demanding healthcare environment, finding tools that genuinely enhance efficiency and improve quality of life for medical professionals is paramount. AI medical scribes have rapidly transitioned from a novel concept to an indispensable asset for many practices. This post distills the myriad advantages into the top 5 benefits of using an AI scribe.

@@ -3,6 +3,7 @@ layout: post
 title: "A Physician's Review: My First 30 Days with an AI Scribe"
 date: 2025-04-15
 categories: [ai-documentation, physician-wellness, reviews]
+image: /assets/images/blog/2025-04-15-physician-review-ai-scribe.png
 ---
 
 The promise of an AI scribe is intoxicating: an end to "pajama time," more face-to-face interaction with patients, and a significant reduction in the daily grind of documentation. As a primary care physician drowning in administrative work, I was intrigued but skeptical. Could it really work? I decided to take the plunge. Our practice ran a pilot program with a popular ambient AI scribe, and I volunteered.

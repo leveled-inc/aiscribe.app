@@ -3,6 +3,7 @@ layout: post
 title: "The Ergonomics of Clinical Documentation: How AI Scribes are Protecting Physician Health"
 date: 2026-02-01
 categories: [clinical-notes-software, technology, patient-care]
+image: /assets/images/blog/2026-02-01-ergonomics-of-clinical-documentation.png
 ---
 
 In the modern medical landscape, we often discuss the mental toll of clinical documentation: burnout, cognitive load, and the "pajama time" that eats into personal lives. However, there is a physical dimension to the documentation crisis that is frequently overlooked. From Repetitive Strain Injuries (RSI) to chronic neck and back pain, the traditional "keyboard and mouse" approach to charting is taking a literal toll on the bodies of clinicians.

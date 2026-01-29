@@ -3,6 +3,7 @@ layout: post
 title: "From Burnout to Balance: The AI Scribe Solution"
 date: 2026-02-05
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-05-from-burnout-to-balance-the-ai-scribe-solution.png
 ---
 
 Physician burnout is a silent epidemic in the healthcare industry. The long hours, administrative burden, and emotional stress of the job can take a toll on even the most dedicated physicians. But what if there was a way to restore balance and joy to the practice of medicine? This post explores how AI medical scribes are helping physicians go from burnout to balance.

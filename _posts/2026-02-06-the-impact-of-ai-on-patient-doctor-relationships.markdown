@@ -3,6 +3,7 @@ layout: post
 title: "The Impact of AI on Patient-Doctor Relationships"
 date: 2026-02-06
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-06-the-impact-of-ai-on-patient-doctor-relationships.png
 ---
 
 The relationship between a patient and their doctor is the cornerstone of healthcare. It is built on trust, empathy, and effective communication. As artificial intelligence (AI) becomes more integrated into the clinical workflow, it is natural to wonder what impact it will have on this sacred relationship. This post explores the impact of AI on patient-doctor relationships.

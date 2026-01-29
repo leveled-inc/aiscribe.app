@@ -3,6 +3,7 @@ layout: post
 title: "The Future of AI in Oncology"
 date: 2026-04-18
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-18-the-future-of-ai-in-oncology.png
 ---
 
 Oncology, the branch of medicine dealing with cancer, is one of the most complex and rapidly evolving fields in healthcare. The sheer volume of research, the intricacies of personalized treatment regimens, and the emotional toll on patients and providers make it a prime area for technological innovation. Artificial intelligence (AI) is already beginning to transform oncology, promising to enhance every stage of the cancer journey, from early detection to survivorship. This post explores the exciting future of AI in oncology.

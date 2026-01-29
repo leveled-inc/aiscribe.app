@@ -3,6 +3,7 @@ layout: post
 title: "How AI is Helping to Close the Gender Gap in Healthcare"
 date: 2026-03-11
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-11-how-ai-is-helping-to-close-the-gender-gap-in-healthcare.png
 ---
 
 Historically, healthcare has struggled with a persistent gender gap, not only in leadership positions but also in the recognition and treatment of gender-specific health issues. While Artificial Intelligence (AI) itself is a tool, its thoughtful application can play a significant role in addressing and ultimately closing this gap. This post explores how AI is contributing to a more equitable healthcare landscape for all genders.

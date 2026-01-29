@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Power of Big Data in Healthcare"
 date: 2026-02-27
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-27-ai-scribes-and-the-power-of-big-data-in-healthcare.png
 ---
 
 Big data has emerged as a transformative force across industries, and healthcare is no exception. The sheer volume, velocity, and variety of health-related information—from EHRs and medical images to genomics and wearables—present both immense challenges and unprecedented opportunities. This post explores how AI scribes are uniquely positioned to unlock the power of big data in healthcare.

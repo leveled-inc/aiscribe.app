@@ -3,6 +3,7 @@ layout: post
 title: "Optimizing Physician Well-being: The 'Hot vs. Cold' Approach to Clinical Documentation with AI Scribes"
 date: 2026-01-20
 categories: [ai-documentation, physician-wellness, efficiency]
+image: /assets/images/blog/2026-01-20-optimizing-physician-well-being-ai-scribes.png
 ---
 
 In the demanding world of healthcare, physicians often seek ways to optimize their routines and well-being, much like considering the science-backed benefits of hot versus cold showers. While a direct comparison to bathing habits might seem unconventional, the underlying principle—strategic choices for enhanced outcomes—applies directly to clinical documentation. This article explores how AI scribe technology offers a transformative "hot vs. cold" approach, allowing physicians to reclaim their time and reduce burnout.

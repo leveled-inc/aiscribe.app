@@ -3,6 +3,7 @@ layout: post
 title: "How to Get Your Team on Board with AI Scribes"
 date: 2026-03-04
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-04-how-to-get-your-team-on-board-with-ai-scribes.png
 ---
 
 Adopting new technology in a healthcare setting can often be met with skepticism or resistance from staff. While AI medical scribes promise significant benefits, successful implementation hinges on getting your entire team—from physicians to nurses and administrative staff—on board. This post provides strategies for fostering acceptance and enthusiasm for AI scribes within your practice.

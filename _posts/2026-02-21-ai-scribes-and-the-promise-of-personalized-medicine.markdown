@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and the Promise of Personalized Medicine"
 date: 2026-02-21
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-02-21-ai-scribes-and-the-promise-of-personalized-medicine.png
 ---
 
 Personalized medicine is a revolutionary approach to healthcare that takes into account the individual variability in genes, environment, and lifestyle for each person. The goal of personalized medicine is to tailor treatment and prevention to the specific characteristics of each individual. This post explores the role of AI scribes in the promise of personalized medicine.

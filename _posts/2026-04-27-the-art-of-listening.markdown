@@ -3,6 +3,7 @@ layout: post
 title: "The Art of Listening: How Ambient AI Scribes are Restoring the Physician-Patient Connection"
 date: 2026-04-27
 categories: [artificial-intelligence, patient-care, clinical-notes-software]
+image: /assets/images/blog/2026-04-27-the-art-of-listening.png
 ---
 
 In 1816, René Laennec invented the stethoscope because he was uncomfortable placing his ear directly on a woman's chest to listen to her heart. This simple wooden tube didn't just solve a social awkwardness; it revolutionized medicine by allowing doctors to "listen" to the internal state of the body. For two centuries, the stethoscope has been the icon of the medical profession—a symbol of the doctor’s primary duty: to listen.

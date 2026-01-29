@@ -3,6 +3,7 @@ layout: post
 title: "AI Scribes and Medical Billing: Improving Accuracy and Revenue"
 date: 2025-10-03
 categories: [ai-documentation, business, roi]
+image: /assets/images/blog/2025-10-03-ai-scribes-and-billing.png
 ---
 
 While the most celebrated benefit of AI scribes is saving physicians time, their impact on a practice's financial health can be just as significant. Accurate, detailed, and timely documentation is the cornerstone of a healthy revenue cycle. By revolutionizing the documentation process, AI scribes can directly improve billing accuracy, reduce claim denials, and enhance overall revenue.

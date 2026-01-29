@@ -3,6 +3,7 @@ layout: post
 title: "The Future of AI in Mental Health"
 date: 2026-03-10
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-03-10-the-future-of-ai-in-mental-health.png
 ---
 
 Mental health is a critical component of overall well-being, yet access to care, early diagnosis, and personalized treatment remain significant global challenges. Artificial intelligence (AI) is rapidly emerging as a transformative force, holding immense promise to revolutionize mental healthcare. This post explores the exciting future of AI in mental health.

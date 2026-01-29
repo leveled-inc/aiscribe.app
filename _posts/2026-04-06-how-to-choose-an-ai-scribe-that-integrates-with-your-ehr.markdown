@@ -3,6 +3,7 @@ layout: post
 title: "How to Choose an AI Scribe that Integrates with Your EHR"
 date: 2026-04-06
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-06-how-to-choose-an-ai-scribe-that-integrates-with-your-ehr.png
 ---
 
 The Electronic Health Record (EHR) is the central nervous system of any modern healthcare practice. While AI medical scribes promise revolutionary efficiency, their true value is unlocked only when they seamlessly integrate with your existing EHR system. A poorly integrated AI scribe can create more work than it saves. This post guides practices on how to choose an AI scribe that integrates effectively with their EHR.

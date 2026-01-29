@@ -3,6 +3,7 @@ layout: post
 title: "How to Choose the Best AI Scribe for a Small Practice"
 date: 2025-09-15
 categories: [ai-documentation, buying-guide, business]
+image: /assets/images/blog/2025-09-15-ai-scribe-for-small-practice.png
 ---
 
 Large hospital systems may have the resources to implement complex, enterprise-level AI scribe solutions, but what about the small, independent practice? The good news is that the AI scribe market has matured, and there are now numerous affordable, effective options designed specifically for the needs of smaller clinics.

@@ -3,6 +3,7 @@ layout: post
 title: "The Future of AI in Pediatric Care"
 date: 2026-04-13
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-13-the-future-of-ai-in-pediatric-care.png
 ---
 
 Pediatric care is a unique and sensitive field, focusing on the health and development of infants, children, and adolescents. It requires a delicate balance of medical expertise, communication with both young patients and their parents, and attention to growth milestones. Artificial intelligence (AI) is rapidly emerging as a valuable tool to enhance pediatric care, promising to improve diagnostics, streamline workflows, and support families. This post explores the exciting future of AI in pediatric care.

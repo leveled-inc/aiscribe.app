@@ -3,6 +3,7 @@ layout: post
 title: "Nuance DAX vs. Abridge: A Comparison of Two Industry Giants"
 date: 2025-02-24
 categories: [ai-documentation, buying-guide, technology, reviews]
+image: /assets/images/blog/2025-02-24-nuance-vs-abridge.png
 ---
 
 In the competitive landscape of AI medical scribes, two names often come up, particularly in the context of large healthcare systems and deep EHR integration: Nuance Dragon Ambient eXperience (DAX) and Abridge. Both are powerful, sophisticated solutions, but they cater to slightly different needs and philosophies.

@@ -3,6 +3,7 @@ layout: post
 title: "The Benefits of Cloud-Based AI Scribes"
 date: 2026-04-02
 categories: [artificial-intelligence, clinical-notes-software, patient-care]
+image: /assets/images/blog/2026-04-02-the-benefits-of-cloud-based-ai-scribes.png
 ---
 
 In the rapidly evolving landscape of healthcare technology, the adoption of cloud-based solutions has become a powerful trend. For AI medical scribes, leveraging the cloud brings a host of benefits that enhance accessibility, scalability, and efficiency. This post explores the significant advantages of opting for cloud-based AI scribes for your practice.
