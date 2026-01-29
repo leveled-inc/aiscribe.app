@@ -258,25 +258,32 @@ strong {
   }
 
   &.has-image {
-    display: grid;
-    grid-template-columns: 200px 1fr;
+    display: flex;
+    flex-direction: row;
     gap: $spacing-md;
-    align-items: start;
+    align-items: flex-start;
 
-    @media (max-width: 768px) {
-      grid-template-columns: 1fr;
+    @media (max-width: 600px) {
+      flex-direction: column;
     }
   }
 }
 
 .post-thumbnail {
-  display: block;
+  flex-shrink: 0;
+  width: 180px;
+  height: 120px;
   border-radius: $border-radius-sm;
   overflow: hidden;
 
+  @media (max-width: 600px) {
+    width: 100%;
+    height: 200px;
+  }
+
   img {
     width: 100%;
-    height: 130px;
+    height: 100%;
     object-fit: cover;
     display: block;
     transition: transform $transition-medium;
@@ -288,8 +295,8 @@ strong {
 }
 
 .post-content-preview {
-  display: flex;
-  flex-direction: column;
+  flex: 1;
+  min-width: 0;
 }
 
 .post-meta {
